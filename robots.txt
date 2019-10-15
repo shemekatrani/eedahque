@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hohveiwim.foodnutritioninfo.com/sitemap.xml
